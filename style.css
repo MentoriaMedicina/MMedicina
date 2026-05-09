@@ -50,7 +50,7 @@ h3, h4{
 .shelf {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
-    gap: 10px;
+    gap: 30px;
     padding: 50px;
 
     justify-items: center; /* horizontal center inside each grid cell */
